@@ -1,10 +1,7 @@
 import KMPSLOGO from "./logo.jpg";
 import KMPSLOGO2 from "./logo2.jpg";
 import KMPSLOGO3 from "./logo3.png";
-import Banner1 from "./banner1.jpg";
-import Banner2 from "./banner2.jpg";
-import Banner3 from "./banner3.jpg";
-import Banner4 from "./banner4.jpg";
+
 import classRoom from "./classroom.jpg";
 import Library from "./library.jpg";
 import computerLab from "./computer_1.jpg";
@@ -35,10 +32,7 @@ const assets = {
   KMPSLOGO,
   KMPSLOGO2,
   KMPSLOGO3,
-  Banner1,
-  Banner2,
-  Banner3,
-  Banner4,
+ 
   classRoom,
   Library,
   computerLab,
