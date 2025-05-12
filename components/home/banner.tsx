@@ -32,7 +32,7 @@ export default function Banner() {
         "Explore our technology-enabled classrooms, science labs, sports complex, and library that create the perfect environment for learning and growth.",
     },
     {
-      image: assets.KMPS1,
+      image: assets.KMPS2,
       heading: "Join Our Community of Learners",
       description:
         "Limited seats available for the upcoming academic year. Schedule a campus visit or apply online to secure your child's future with us.",
