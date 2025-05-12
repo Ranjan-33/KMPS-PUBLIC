@@ -1,8 +1,6 @@
 import KMPSLOGO from "./logo.jpg";
 import KMPSLOGO2 from "./logo2.jpg";
 import KMPSLOGO3 from "./logo3.png";
-
-import classRoom from "./classroom.jpg";
 import Library from "./library.jpg";
 import computerLab from "./computer_1.jpg";
 import sports from "./sports.png";
@@ -33,7 +31,7 @@ const assets = {
   KMPSLOGO2,
   KMPSLOGO3,
  
-  classRoom,
+
   Library,
   computerLab,
   sports,
