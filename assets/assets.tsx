@@ -21,14 +21,14 @@ import KMPS1 from "./kmpsimg1.png";
 import KMPS2 from "./Kmps2.png";
 import KMPS_2 from "./kmpsimg2.png";
 import KMPS3 from "./kmpsimg3.png";
-import KMPS4 from "./kmpsimg4.png";
+import KMPS4 from "./kmpsimg1.png";
 import KMPS5 from "./kmpsimg5.png";
 import KMPS6 from "./Kmpsimg6.png";
 import KMPS7 from "./kmpsimg7.png";
 import KMPS8 from "./kmpsimg8.png";
 import KMPS9 from "./kmpsimg9.png";
-import KMPS10 from "./kmpsimg10.png";
-import KMPS12 from "./kmpsimg12.jpg";
+import KMPS10 from "./kmpsimg1.png";
+import KMPS12 from "./kmpsimg1.png";
 import SchoolFrontView from "./School front view.jpg";
 // import SchoolFrontView from "./School front view.jpg";
 
