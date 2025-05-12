@@ -5,7 +5,6 @@ import Banner1 from "./banner1.jpg";
 import Banner2 from "./banner2.jpg";
 import Banner3 from "./banner3.jpg";
 import Banner4 from "./banner4.jpg";
-import aboutSchool from "./about.png";
 import classRoom from "./classroom.jpg";
 import Library from "./library.jpg";
 import computerLab from "./computer_1.jpg";
@@ -40,7 +39,6 @@ const assets = {
   Banner2,
   Banner3,
   Banner4,
-  aboutSchool,
   classRoom,
   Library,
   computerLab,
