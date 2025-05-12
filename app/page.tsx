@@ -1,7 +1,7 @@
 // "use client";
 
 import Banner from "@/components/home/banner";
-import AboutSection from "@/components/home/about-section";
+// import AboutSection from "@/components/home/about-section";
 import InfrastructureSection from "@/components/home/infrastructure-section";
 import StatsSection from "@/components/home/sats-section";
 import GallerySection from "@/components/home/gallery-section";
@@ -15,7 +15,7 @@ export default function Home() {
       <main>
         <Banner />
         <Heighlight />
-        <AboutSection />
+        {/* <AboutSection /> */}
         <StatsSection />
         <CoachingBanner /> {/* Added coaching banner here */}
         <InfrastructureSection />
